@@ -1,0 +1,12 @@
+.become__driver {
+    background: linear-gradient(rgb(0, 13, 107, 0.9), rgb(0, 13, 107, 0.9)), url('../../assets/drive.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 90px 0px;
+}
+
+
+/* .become__driver {
+    background: gold;
+} */
